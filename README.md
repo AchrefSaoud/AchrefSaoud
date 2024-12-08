@@ -1,7 +1,4 @@
 # 👋 Hello there! Welcome to Achref Saoud's GitHub Profile! 🚀
-
-![Profile Banner](https://via.placeholder.com/1000x300?text=Welcome+to+Achref+Saoud's+World!)
-
 ---
 
 ## 👨‍💻 About Me
@@ -33,9 +30,7 @@ Hi! I'm **Achref Saoud**, a passionate developer who loves crafting efficient, s
 ## 🛠️ Favorite Tech Stack
 
 - **Frontend**: Angular | Tailwind CSS
-- **Backend**: Node.js | Express | MongoDB
-- **Tools & Libraries**: QRCode | Swagger | Socket.IO
-
+- **Backend**: Node.js | Express | SpringBoot 
 ---
 
 ## 🌟 GitHub Stats
