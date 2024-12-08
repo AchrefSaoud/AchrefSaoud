@@ -1,4 +1,5 @@
 # 👋 Hello there! Welcome to Achref Saoud's GitHub Profile! 🚀
+
 ---
 
 ## 👨‍💻 About Me
@@ -15,22 +16,15 @@ Hi! I'm **Achref Saoud**, a passionate developer who loves crafting efficient, s
 ## 💼 Professional Skills
 
 ### Languages & Frameworks:
-- **Backend**: Node.js, Express,SpringBoot
-- **Frontend**: Angular, Tailwind CSS, Bootstrap
-- **Database**: MongoDB, Mongoose,MySql
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ### Tools:
-- Version Control: Git, GitHub
-- Project Management: Agile, Jira
-- CI/CD: Docker, Jenkins
-- Cloud Platforms: AWS, Firebase
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
 
----
-
-## 🛠️ Favorite Tech Stack
-
-- **Frontend**: Angular | Tailwind CSS
-- **Backend**: Node.js | Express | SpringBoot 
 ---
 
 ## 🌟 GitHub Stats
