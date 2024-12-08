@@ -1,17 +1,8 @@
 # 👋 Hello there! Welcome to Achref Saoud's GitHub Profile! 🚀
 
----
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Achref Saoud**, a passionate developer who loves crafting efficient, scalable, and innovative solutions. My journey in the world of technology is driven by curiosity and the excitement of solving real-world problems with code.
-
-- 🌟 **Full-Stack Developer**: Specializing in JavaScript (Node.js, Angular), MongoDB, and more.
-- 🌐 **Open Source Enthusiast**: A firm believer in collaboration and knowledge sharing.
-- 📚 **Continuous Learner**: Always exploring new tools and technologies to stay ahead.
-- 🌍 **Based in Tunisia**: Proudly contributing to the global tech ecosystem.
-
----
 
 ## 💼 Professional Skills
 
@@ -19,6 +10,7 @@ Hi! I'm **Achref Saoud**, a passionate developer who loves crafting efficient, s
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
 
 ### Tools:
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
