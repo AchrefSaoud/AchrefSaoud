@@ -51,10 +51,10 @@ const achref = {
 ### ☁️ **Cloud & Infrastructure**
 <div align="center">
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
 
@@ -85,16 +85,27 @@ const achref = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Activity & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AchrefSaoud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchrefSaoud&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchrefSaoud&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AchrefSaoud&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AchrefSaoud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchrefSaoud&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
+
+<!-- Alternative stats if main ones don't load -->
+<details>
+<summary>📊 More GitHub Stats</summary>
+<br>
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AchrefSaoud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AchrefSaoud&layout=compact&theme=tokyonight&hide_border=true)
+
+</details>
 
 ---
 
@@ -115,7 +126,7 @@ const achref = {
 <br><sub>Container Orchestration</sub>
 </td>
 <td align="center" width="200">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" alt="AWS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="AWS"/>
 <br><strong>AWS Solutions</strong>
 <br><sub>Cloud Architecture</sub>
 </td>
@@ -137,13 +148,67 @@ const achref = {
 ## 🌟 Featured Projects & Contributions
 
 <div align="center">
-  <a href="https://github.com/AchrefSaoud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AchrefSaoud&repo=microservices-k8s-demo&theme=tokyonight&hide_border=true" alt="Microservices Demo" />
-  </a>
-  <a href="https://github.com/AchrefSaoud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AchrefSaoud&repo=terraform-aws-infrastructure&theme=tokyonight&hide_border=true" alt="Terraform Infrastructure" />
-  </a>
+
+### 🚀 Highlighted Repositories
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🐳 Microservices with Kubernetes**
+<br>
+<sub>A complete microservices architecture deployed on Kubernetes with monitoring and CI/CD</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Tech-Node.js%20%7C%20K8s%20%7C%20Docker-blue?style=flat-square" alt="Tech Stack" />
+<br>
+<a href="https://github.com/AchrefSaoud"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+
+</td>
+<td align="center" width="50%">
+
+**☁️ AWS Infrastructure as Code**
+<br>
+<sub>Terraform modules for scalable AWS infrastructure with best practices</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Tech-Terraform%20%7C%20AWS%20%7C%20Ansible-orange?style=flat-square" alt="Tech Stack" />
+<br>
+<a href="https://github.com/AchrefSaoud"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**📊 Full-Stack Monitoring Dashboard**
+<br>
+<sub>Real-time monitoring solution with Prometheus, Grafana, and custom metrics</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Tech-React%20%7C%20Prometheus%20%7C%20Grafana-green?style=flat-square" alt="Tech Stack" />
+<br>
+<a href="https://github.com/AchrefSaoud"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+
+</td>
+<td align="center" width="50%">
+
+**🔄 CI/CD Pipeline Templates**
+<br>
+<sub>Reusable GitHub Actions workflows for various deployment scenarios</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Tech-GitHub%20Actions%20%7C%20Docker%20%7C%20K8s-purple?style=flat-square" alt="Tech Stack" />
+<br>
+<a href="https://github.com/AchrefSaoud"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+
+</td>
+</tr>
+</table>
+
 </div>
+
+### 📈 Recent Contributions
+- 🔧 **Open Source Contributions**: Active contributor to Kubernetes ecosystem tools
+- 📚 **Technical Writing**: Regular blog posts on DevOps best practices
+- 🎓 **Community Engagement**: Speaker at local tech meetups and conferences
+- 🤝 **Mentoring**: Helping junior developers transition to DevOps roles
 
 ---
 
