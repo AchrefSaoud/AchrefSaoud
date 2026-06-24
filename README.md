@@ -24,10 +24,6 @@ const achref = {
 };
 ```
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchrefSaoud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🛠️ Tech Arsenal
