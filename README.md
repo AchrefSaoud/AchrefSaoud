@@ -92,14 +92,3 @@ const achref = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <h3>💻 "Clean code always looks like it was written by someone who cares" 💻</h3>
-  <p><em>Thanks for visiting! Let's build something extraordinary together! 🚀</em></p>
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving Hand" />
-</div>
