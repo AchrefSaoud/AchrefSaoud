@@ -4,7 +4,7 @@
 
 Fintech Software Engineer building production-grade web apps, backend services, REST APIs, and AI-powered platforms.
 
-Based in Tunis, Tunisia · [LinkedIn](https://linkedin.com/in/achraf-saoud) · [Portfolio](https://achrafsaoud.netlify.app)
+Based in Tunis, Tunisia · [LinkedIn](https://www.linkedin.com/in/achraf-saoud-5a989626b/) · [Portfolio](https://achrafsaoud.netlify.app)
 
 #### Tech stack
 
